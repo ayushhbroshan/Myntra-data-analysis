@@ -93,6 +93,5 @@ This is a self-scoped exercise, not client work — the Myntra dataset is a
 publicly available scraped product listing used for practice, and the
 findings are illustrative rather than commercially verified.
 
-The full workbook (raw data, pivot tables, and dashboards) is available in
-this repo.
+
 
